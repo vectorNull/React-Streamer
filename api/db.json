@@ -1,3 +1,19 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "my stream about stoicsim",
+      "id": 1
+    },
+    {
+      "title": "The best of us",
+      "description": "the story of one of the best of us",
+      "id": 2
+    },
+    {
+      "title": "The best of us",
+      "description": "the story of one of the best of us",
+      "id": 3
+    }
+  ]
 }
